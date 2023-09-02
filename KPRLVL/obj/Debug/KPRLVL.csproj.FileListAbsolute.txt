@@ -1,0 +1,6 @@
+C:\Users\maxim\OneDrive\Bureau\File for Programs\HaltmannLab-master\KPRLVL\bin\Debug\KPRLVL.dll
+C:\Users\maxim\OneDrive\Bureau\File for Programs\HaltmannLab-master\KPRLVL\bin\Debug\KPRLVL.pdb
+C:\Users\maxim\OneDrive\Bureau\File for Programs\HaltmannLab-master\KPRLVL\obj\Debug\KPRLVL.csproj.AssemblyReference.cache
+C:\Users\maxim\OneDrive\Bureau\File for Programs\HaltmannLab-master\KPRLVL\obj\Debug\KPRLVL.csproj.CoreCompileInputs.cache
+C:\Users\maxim\OneDrive\Bureau\File for Programs\HaltmannLab-master\KPRLVL\obj\Debug\KPRLVL.dll
+C:\Users\maxim\OneDrive\Bureau\File for Programs\HaltmannLab-master\KPRLVL\obj\Debug\KPRLVL.pdb
